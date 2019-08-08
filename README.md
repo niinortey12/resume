@@ -1,4 +1,4 @@
 # resume
 Resume website
 
-https://github.com/niinortey12/resume
+https://niinortey12.github.io/resume/
